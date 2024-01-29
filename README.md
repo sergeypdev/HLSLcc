@@ -1,6 +1,8 @@
 # HLSLcc
 DirectX shader bytecode cross compiler.
 
+**With Zig Build System**
+
 Originally based on https://github.com/James-Jones/HLSLCrossCompiler.
 
 This library takes DirectX bytecode as input, and translates it into the following languages:
